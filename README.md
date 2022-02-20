@@ -28,13 +28,11 @@ print("The word count is",len(word))
 f1.close()
 ```
 ### OUTPUT:
-Text File "File1.txt":
-![image](https://user-images.githubusercontent.com/94165326/153735949-b6ccc239-3e9a-418a-9e35-08278d7fd1f9.png)
+### program.py:
 
+### file1.txt:
 
-Command Powershell prompt:
-![image](https://user-images.githubusercontent.com/94165326/153735965-b5b3e572-539f-4ba9-95c6-cd9de0914690.png)
-
+### terminal and command prompt:
 
 
 
