@@ -29,10 +29,16 @@ f1.close()
 ```
 ### OUTPUT:
 ### program.py:
+![image](https://user-images.githubusercontent.com/94165326/154830930-fc649952-97f4-4c0e-87bb-318b657a9074.png)
+
 
 ### file1.txt:
+![image](https://user-images.githubusercontent.com/94165326/154830934-fcbdcc63-9249-433d-ab39-6ca3c82f71c0.png)
+
 
 ### terminal and command prompt:
+![image](https://user-images.githubusercontent.com/94165326/154830940-d855df6f-8dd4-4664-ac9c-65e38aceefb4.png)
+
 
 
 
